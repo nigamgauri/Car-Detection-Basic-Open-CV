@@ -1,1 +1,0 @@
-# Car-Detection-Basic-Open-CV
