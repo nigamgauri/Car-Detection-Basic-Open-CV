@@ -1,7 +1,7 @@
 # Car-Detection-Basic-Open-CV
 
 
-![]
+
 Description: I used __OpenCV Library__ which is is an open source computer vision and machine learning software library.
 HaarCascade: It is a machine learning object detection algorithm used to identify objects in an image or video.
 With the combination of Python and CV2, image of cars are extracted from video and displayed on windows Screen.
