@@ -27,11 +27,8 @@ Haar Cascade classifiers are an effective way for object detection. This method 
   `import matplotlib`<br>
   `import cv2 as cv`<br>
   `print( cv.__version__ )`
-5. If the file executes without an error, Congratulations, you have successfully completed the installation part.
+5. My file executes without an error, that means I completed the installation part.
+6. ##By Gauri Nigam
 
-### You will cover the following topics while building this project:
-1) Frame Differencing
-2) Image Thresholding
-3) Contours
-4) Image Dilation
+
 
