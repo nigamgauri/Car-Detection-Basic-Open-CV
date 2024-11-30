@@ -1,5 +1,5 @@
 import cv2
-
+#Created by Gauri Nigam
 # capture frames from a video
 cap = cv2.VideoCapture(r'D:\Prog\OpenCV\Car Detection\New-GithubTest-master\carr.mp4')
 
